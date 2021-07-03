@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name c65Keyb-eagle-import)(type Legacy)(uri ${KIPRJMOD}/c65Keyb-eagle-import.lib)(options "")(descr ""))
+)
